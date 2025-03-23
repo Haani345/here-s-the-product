@@ -8,7 +8,7 @@ def calculate_product():
 
 window = tk.Tk()
 window.title("Multiply")
-window.geometry("400x400")
+window.geometry("400x300")
 
 entry1 = tk.Entry(window)
 entry1.pack()
